@@ -1,1 +1,1 @@
-worker: backend.py
+worker: frontend.py
